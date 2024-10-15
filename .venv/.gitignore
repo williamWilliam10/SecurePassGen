@@ -1,0 +1,34 @@
+# created by virtualenv automatically
+# Ignorer l'environnement virtuel
+.venv/
+env/
+venv/
+ENV/
+
+# Ignorer les fichiers et dossiers générés par PyCharm
+.idea/
+*.iml
+
+# Ignorer les fichiers temporaires et de cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.log
+
+# Ignorer les fichiers de configuration de l'IDE
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Ignorer les fichiers de données temporaires
+*.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de configuration personnels
+*.env
+*.env.local

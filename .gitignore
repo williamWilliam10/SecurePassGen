@@ -1,0 +1,23 @@
+# Dossiers et fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Fichiers de log
+*.log
+
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers de configuration de l'IDE
+.idea/
+.vscode/
+
+# Fichiers de dépendances
+*.lock
+*.env
+
+
+# Dossiers de build
+build/
+dist/
